@@ -6,3 +6,5 @@ echo "1.Bawang";
 echo "2.Timun";
 echo "3.Selada";
 echo "4.Tomat";
+echo "5.Daging";
+echo "6.Keju";
